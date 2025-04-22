@@ -1,3 +1,3 @@
-**IC Mobile App**
+# IC Mobile App
 
-Mobile app for attendees and staffers to streamline IC operations 
+The Business Today Conference App is a mobile application designed to streamline logistics and enhance the experience for both staffers and attendees at Business Today’s future conferences. The app provides each user with a personalized schedule. It also includes a comprehensive FAQ section to quickly address common questions, a real-time help form for assistance, and a venue map to help users navigate the conference efficiently. Additionally, the app supports live notifications to keep users informed about any changes, announcements, and important updates. By centralizing everything onto one platform, we hope to reduce operational friction, improve communication, and create a more seamless and engaging conference experience.
